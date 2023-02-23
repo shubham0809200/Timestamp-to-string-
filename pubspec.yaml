@@ -1,11 +1,11 @@
 name: timestamp_to_string
-description: A new Flutter package project.
+description: A timestamp to readable string or timestamp to date converter is a function that takes a timestamp as input and returns a human-readable date string
 version: 0.0.1
-homepage:
+homepage: https://github.com/shubham0809200/Timestamp-to-string-
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
-  flutter: ">=1.17.0"
+  flutter: '>=1.17.0'
 
 dependencies:
   flutter:
